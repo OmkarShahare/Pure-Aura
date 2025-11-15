@@ -57,7 +57,7 @@ const Hero = () => {
     })
   return (
     <>
-         <h1 className=' text-white md:mt-12 mt-4 text-center md:text-[5vw] text-[7vh] font-[600]'>Welcome To <span className='tag text-blue-400'>PURE AURA</span></h1>
+         <h1 className=' text-white md:mt-12 mt-4 text-center md:text-[5vw] text-[7vh] font-[600]'>Welcome To <span className='tag text-blue-400'>PURE AURA omkar</span></h1>
 
          <div className=' flex justify-center mt-4 '>
        <div className='home md:w-96 md:h-80  w-72 h-60 text-white bg-gradient-to-r from-[#0035a8] via-[#5700f8] to-[#9900ff] ' >
